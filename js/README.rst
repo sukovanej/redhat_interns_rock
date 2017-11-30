@@ -8,12 +8,11 @@ The following is a simple homework assignment I've cooked up
 for you to demonstrate your JS skillz and general 
 ambitions to impress me and other folks here at Red Hat.
 
-If you're interested, please fork this repo and solve the
-following problem as best as you can within 72 hours of
-forking the repo.
+If you're interested, please solve the following problem as 
+best as you can within 72 hours of forking the repo.
 
-Send a 'github pull request' when your solution is ready for 
-review. 
+Open a new issue in this repository when your solution is 
+ready for review. Make sure to include relevant links, etc. 
 
 Assignment:: 
 
