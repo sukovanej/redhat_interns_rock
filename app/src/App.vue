@@ -14,7 +14,7 @@
 <script>
 export default {
   name: 'Main',
-  data() {
+  data () {
     return {
       alert: false
     }
